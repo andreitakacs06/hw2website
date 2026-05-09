@@ -1,0 +1,618 @@
+/* background */
+
+position: absolute;
+width: 1287px;
+height: 776px;
+
+background: linear-gradient(180deg, #070707 50.48%, #5B0F1D 100%);
+
+
+/* sign up bg */
+
+position: absolute;
+width: 362px;
+height: 473px;
+
+background: #070707;
+border-radius: 14px;
+
+
+/* log in bg */
+
+position: absolute;
+width: 362px;
+height: 425px;
+
+background: #070707;
+border-radius: 14px;
+
+
+/* Already have an account? */
+
+position: absolute;
+width: 202px;
+height: 21px;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Button */
+
+position: relative;
+width: 172px;
+height: 38px;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F9F6EE;
+border-radius: 53px;
+
+
+/* Sign Up */
+
+position: absolute;
+left: 23.26%;
+right: 24.42%;
+top: 10.53%;
+bottom: 7.89%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #070707;
+
+
+
+/* InputBox */
+
+position: relative;
+width: 300px;
+height: 65px;
+
+
+
+/* Rectangle 5 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 41.54%;
+bottom: 0%;
+
+background: #070707;
+border: 3px solid #F9F6EE;
+border-radius: 15px;
+
+
+/* Password: */
+
+position: absolute;
+left: 0%;
+right: 75.33%;
+top: 0%;
+bottom: 69.23%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* ************************* */
+
+position: absolute;
+left: 3.67%;
+right: 27.67%;
+top: 58.46%;
+bottom: 10.77%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* InputBox */
+
+position: relative;
+width: 305px;
+height: 63px;
+
+
+
+/* Email address: */
+
+position: absolute;
+left: 0%;
+right: 65.57%;
+top: 0%;
+bottom: 68.25%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 1.64%;
+right: 0%;
+top: 39.68%;
+bottom: 0%;
+
+background: #070707;
+border: 3px solid #F9F6EE;
+border-radius: 15px;
+
+
+/* emailadd@e-uvt.ro */
+
+position: absolute;
+left: 5.25%;
+right: 45.9%;
+top: 52.38%;
+bottom: 15.87%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+
+/* InputBox */
+
+position: relative;
+width: 300px;
+height: 63px;
+
+
+
+/* Full name: */
+
+position: absolute;
+left: 0.33%;
+right: 74.67%;
+top: 0%;
+bottom: 68.25%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 39.68%;
+bottom: 0%;
+
+background: #070707;
+border: 3px solid #F9F6EE;
+border-radius: 15px;
+
+
+/* Andrei Takacs */
+
+position: absolute;
+left: 4%;
+right: 60.33%;
+top: 53.97%;
+bottom: 14.29%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Welcm */
+
+position: relative;
+width: 191px;
+height: 72px;
+
+
+
+/* Please enter your details */
+
+position: absolute;
+left: 0%;
+right: 7.85%;
+top: 72.22%;
+bottom: 0%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Welcome */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 27.78%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Create an account */
+
+position: absolute;
+width: 143px;
+height: 21px;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 21px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Button */
+
+position: relative;
+width: 172px;
+height: 38px;
+
+
+
+/* Rectangle 8 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F9F6EE;
+border-radius: 53px;
+
+
+/* Log In */
+
+position: absolute;
+left: 29.65%;
+right: 29.65%;
+top: 7.89%;
+bottom: 10.53%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 31px;
+text-align: center;
+
+color: #070707;
+
+
+
+/* RememberMe */
+
+position: relative;
+width: 132px;
+height: 20px;
+
+
+
+/* Remember Me */
+
+position: absolute;
+left: 0%;
+right: 18.94%;
+top: 0%;
+bottom: 0%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Ellipse 2 */
+
+position: absolute;
+height: 15px;
+left: 88.64%;
+right: 0%;
+top: 2px;
+
+background: #F9F6EE;
+
+
+/* InputBox */
+
+position: relative;
+width: 300px;
+height: 65px;
+
+
+
+/* Rectangle 10 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 41.54%;
+bottom: 0%;
+
+background: #070707;
+border: 3px solid #F9F6EE;
+border-radius: 15px;
+
+
+/* Password: */
+
+position: absolute;
+left: 0%;
+right: 75.33%;
+top: 0%;
+bottom: 69.23%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* ************************* */
+
+position: absolute;
+left: 3.67%;
+right: 27.67%;
+top: 58.46%;
+bottom: 10.77%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* InputBox */
+
+position: relative;
+width: 305px;
+height: 63px;
+
+
+
+/* Rectangle 9 */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 1.64%;
+right: 0%;
+top: 39.68%;
+bottom: 0%;
+
+background: #070707;
+border: 3px solid #F9F6EE;
+border-radius: 15px;
+
+
+/* Email address: */
+
+position: absolute;
+left: 0%;
+right: 65.57%;
+top: 0%;
+bottom: 68.25%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* emailadd@e-uvt.ro */
+
+position: absolute;
+left: 5.25%;
+right: 45.9%;
+top: 52.38%;
+bottom: 15.87%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+
+/* Welcm */
+
+position: relative;
+width: 315px;
+height: 72px;
+
+
+
+/* Please enter your details */
+
+position: absolute;
+left: 0.32%;
+right: 43.81%;
+top: 72.22%;
+bottom: 0%;
+
+font-family: 'Momo Trust Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 20px;
+/* identical to box height */
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Welcome Back! */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 27.78%;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 52px;
+/* identical to box height */
+text-align: center;
+
+color: #F9F6EE;
+
+
+
+/* Andrei’s Portofolio Website */
+
+position: absolute;
+width: 663px;
+height: 62px;
+
+font-family: 'Momo Trust Display';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 62px;
+text-align: center;
+
+color: #FFFFFF;
+
